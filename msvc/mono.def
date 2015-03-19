@@ -906,3 +906,5 @@ mono_win32_compat_FillMemory
 mono_win32_compat_MoveMemory
 mono_win32_compat_ZeroMemory
 mono_xdebug_flush
+mono_thread_pop_appdomain_ref
+mono_thread_push_appdomain_ref
